@@ -1,1 +1,1 @@
-echo "Hello World from test jenkins jobs" 
+ hello this is jenkins first project
